@@ -19,4 +19,22 @@
 ![React](https://img.shields.io/badge/React-bf00ff?style=flat-square&logo=React&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-4000ff?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-0000ff?style=flat-square&logo=CSS3&logoColor=white)
-![Sql](https://img.shields.io/badge/Sql-0080ff?style=flat-square&logo=Sql&logoColor=white)
+![Sql](https://img.shields.io/badge/Sql-0080ff?style=flat-square&logo=sql&logoColor=white)
+
+
+<h3><b><samp>Recent Projects</samp></b></h3>
+
+<p>
+<a href="https://github.com/chrisstef/cryptocurrency-app">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CropperFinance&repo=cropper_instructions&show_owner=true&theme=outrun" />
+</a>
+<a href="https://github.com/SolanaEngineer/vovo-finance-protocol">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SolanaEngineer&repo=vovo-finance-protocol&show_owner=true&theme=outrun" />
+</a>
+</p>
+
+<p>
+<a href="https://github.com/SolanaEngineer/token-list">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SolanaEngineer&repo=token-list&show_owner=true&theme=outrun" />
+</a>
+</p>
