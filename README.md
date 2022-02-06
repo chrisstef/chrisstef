@@ -4,8 +4,8 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="132" height="132">
 </div>
 
-## I am Chris. 
-### I am a fullstack Developer.
+## I am Chris,
+### I am a fullstack Developer building in the Web of Things.
 
 <h2 align="center">
   &nbsp;&nbsp;
@@ -21,8 +21,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
   </a>
   </h2>
-    <h3>🤖Building in the Web of Things.</h3>
-
+  
 
 <h2><b><samp>💻Languages</samp></b></h2>
 
