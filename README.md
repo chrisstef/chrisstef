@@ -5,7 +5,7 @@
 </div>
 
 ## I am Chris,
-### I am a fullstack Developer building in the Web of Things.
+### A fullstack Developer building in the Web of Things.
 
 <h2 align="center">
   &nbsp;&nbsp;
