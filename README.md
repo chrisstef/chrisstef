@@ -22,7 +22,7 @@ I'm Chris! I'm a **full-Stack Developer**📟, looking to solve **real-world pro
   </h2>
   
 
-<h2><samp>💻Languages</samp></h2>
+<h2>💻Languages</h2>
 
 ![Javascript](https://img.shields.io/badge/Javascript-ff00bf?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-bf00ff?style=flat-square&logo=React&logoColor=white)
@@ -32,6 +32,6 @@ I'm Chris! I'm a **full-Stack Developer**📟, looking to solve **real-world pro
 ![CSS3](https://img.shields.io/badge/CSS3-0000ff?style=flat-square&logo=CSS3&logoColor=white)
 
 
-<h2><samp>🛠Github Stats</samp></h2>
+<h2>🛠Github Stats</h2>
 
 [![chrisstef GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisstef&show_icons=true&count_private=true)](https://github.com/chrisstef)
