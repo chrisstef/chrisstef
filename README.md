@@ -12,6 +12,7 @@
   <a href="mailto:xristostefanis@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
   </a>
+  
   <h3>🤖Building in the Web of Things.</h3>
 </h1>
 
