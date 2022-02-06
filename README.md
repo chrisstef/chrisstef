@@ -1,10 +1,10 @@
-## 👋🏻 Hey,
-<div align="center">
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="132" height="132">
-</div>
+<!-- Greeting -->
+# Hey there! :wave:
 
-## I am Chris,
-### A fullstack Developer building in the Web of Things.
+<!--Introduction -->
+I'm Chris! I'm a **full-Stack Developer**📟, looking to solve **real-world problems**🌍. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <h2 align="center">
   &nbsp;&nbsp;
