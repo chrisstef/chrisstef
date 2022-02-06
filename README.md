@@ -23,6 +23,7 @@ I'm Chris! I'm a **full-Stack Developer**📟, looking to solve **real-world pro
   
 
 <h2>💻Languages</h2>
+
 ![Javascript](https://img.shields.io/badge/Javascript-ff00bf?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-bf00ff?style=flat-square&logo=React&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0040ff?style=flat-square&logo=python&logoColor=white)
@@ -32,4 +33,5 @@ I'm Chris! I'm a **full-Stack Developer**📟, looking to solve **real-world pro
 
 
 <h2>🛠Github Stats</h2>
+
 [![chrisstef GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisstef&show_icons=true&count_private=true)](https://github.com/chrisstef)
