@@ -1,6 +1,6 @@
 ## Hey there 🙌
 
-I'm Chris! I'm a **full-Stack Developer**📟, looking to solve **real-world problems**🌍. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm a **full-Stack Developer**📟, looking to solve **real-world problems**🌍. I'm passionate about making **open-source** more accessible, creating software:computer:, tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -10,12 +10,12 @@ I'm Chris! I'm a **full-Stack Developer**📟, looking to solve **real-world pro
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="30">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/christos-stefanis/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
+  <a href="https://gitcoin.co/chrisstef">
+    <img src="https://c.gitcoin.co/avatars/3796775e0f4505332d58e331488d56e9/gitcoinco.png" alt="GitCoin" height="30" width="30">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:xristostefanis@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
+  <a href="https://www.linkedin.com/in/christos-stefanis/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
   </a>
   </h2>
   
