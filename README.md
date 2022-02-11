@@ -33,7 +33,7 @@ _____________|','   ///_/-------------/   |
 ## My Latest Projects  📁
 
 <a href="https://github.com/chrisstef/3CommasVerse">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=Orbits-UI&theme=radical" />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=vault3&theme=radical" />
 </a>
 
 <a href="https://github.com/chrisstef/Modern-Crypto-Punks">
