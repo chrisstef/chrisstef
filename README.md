@@ -33,9 +33,9 @@ _____________|','   ///_/-------------/   |
 ## My Projects  📁
 
 <a href="https://github.com/chrisstef/3CommasVerse">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=3CommasVerse&theme=radical" />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=3CommasVerse&theme=radical" height="160"  witdh="480" />
 </a>
 
 <a href="https://github.com/chrisstef/Modern-Crypto-Punks">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=Modern-Crypto-Punks&theme=radical" />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=Modern-Crypto-Punks&theme=radical" height="160"  witdh="480" />
 </a>
