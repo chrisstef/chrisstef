@@ -43,9 +43,9 @@ I'm a **full-Stack Developer**📟, looking to solve **real-world problems**🌍
 ## My Latest Projects  📁
 
 <a href="https://github.com/chrisstef/3CommasVerse">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=3CommasVerse&theme=radical" height="140"  witdh="400" />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=3CommasVerse&theme=radical" height="120"  witdh="340" />
 </a>
 
 <a href="https://github.com/chrisstef/Modern-Crypto-Punks">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=Modern-Crypto-Punks&theme=radical" height="140"  witdh="400" />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=Modern-Crypto-Punks&theme=radical" height="120"  witdh="340" />
 </a>
