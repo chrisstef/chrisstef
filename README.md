@@ -1,6 +1,6 @@
 ## Hey there 🙌
 
-I'm a **full-Stack Developer**📟, looking to solve **real-world problems**🌍. I'm passionate about making **open-source** more accessible, creating software:computer:, tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm a **full-Stack Developer**📟 interested in **Blockchain technologies**⛓. I'm passionate about making **open-source** more accessible, creating software:computer:, tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to stay in contact</b>✨</em>
 
@@ -40,7 +40,7 @@ I'm a **full-Stack Developer**📟, looking to solve **real-world problems**🌍
 </a>
 
 
-## My Latest Projects  📁
+## My Latest Projects 📁
 
 <a href="https://github.com/chrisstef/3CommasVerse">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=3CommasVerse&theme=radical" height="120"  witdh="340" />
