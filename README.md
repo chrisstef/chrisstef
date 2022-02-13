@@ -45,7 +45,6 @@ I'm a **full-Stack Developer**📟 interested in **blockchain technologies**⛓.
 <a href="https://github.com/chrisstef/3CommasVerse">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=3CommasVerse&theme=radical" height="130"  witdh="330" />
 </a>
-<br>
 <a href="https://github.com/chrisstef/Modern-Crypto-Punks">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=Modern-Crypto-Punks&theme=radical" height="130"  witdh=330" />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=Modern-Crypto-Punks&theme=radical" height="130"  witdh=260" />
 </a>
