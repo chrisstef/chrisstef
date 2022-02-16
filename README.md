@@ -40,7 +40,7 @@ I'm a **full-Stack Developer**📟 interested in **blockchain technologies**⛓.
 </a>
 
 <h2>Account Views</h2>
-<img src="https://profile-counter.glitch.me/TheSlayer-666/count.svg"/>
+<img src="https://profile-counter.glitch.me/chrisstef/count.svg"/>
 
 ## Donate ☕
 
