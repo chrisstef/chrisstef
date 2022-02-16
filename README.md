@@ -39,12 +39,12 @@ I'm a **full-Stack Developer**📟 interested in **blockchain technologies**⛓.
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chrisstef&theme=radical" height="160" witdh="480" />
 </a>
 
-<h2>Account Views</h2>
-<img src="https://profile-counter.glitch.me/chrisstef/count.svg"/>
+<!-- <h2>Account Views</h2>
+<img src="https://profile-counter.glitch.me/chrisstef/count.svg"/> -->
 
 ## Donate ☕
 
- <a href="https://https://etherscan.io/address/0x49f872682850cd1b41c23fce1174bedbb2709b32"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-0D2038?style=for-the-badge&logo=ethereum&logoColor=white"/></a>
+ <a href="https://etherscan.io/address/0x49f872682850Cd1b41C23FCe1174BEDbB2709b32"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-0D2038?style=for-the-badge&logo=ethereum&logoColor=white"/></a>
  
  
 <!-- ## My Latest Projects 📁
