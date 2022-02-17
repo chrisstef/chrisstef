@@ -39,7 +39,7 @@ I'm a **full-Stack Developer**📟 interested in **blockchain technologies**⛓.
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chrisstef&theme=radical" height="160" witdh="480" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisstef&layout=compact)](https://github.com/chrisstef/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisstef&layout=compact)](https://github.com/chrisstef/chrisstef)
 
 <!-- <h2>Account Views</h2>
 <img src="https://profile-counter.glitch.me/chrisstef/count.svg"/> -->
