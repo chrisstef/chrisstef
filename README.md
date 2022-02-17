@@ -33,7 +33,7 @@ I'm a **full-Stack Developer**📟 interested in **blockchain technologies**⛓.
 ## Github Stats ⚡
 
 <a href="https://github.com/chrisstef">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisstef&amp;show_icons=true&amp;theme=radical" height="160"  witdh="480" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisstef&amp;show_icons=true&amp;theme=tokyonight" height="160"  witdh="480" />
 </a>
 <a href="https://github.com/chrisstef">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chrisstef&theme=radical" height="160" witdh="480" />
