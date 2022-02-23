@@ -42,9 +42,9 @@ I'm a **full-Stack Developer**📟 interested in **blockchain technologies**⛓.
 <!-- <h2>Account Views</h2>
 <img src="https://profile-counter.glitch.me/chrisstef/count.svg"/> -->
 
-## Donate ☕
+<!-- ## Donate ☕
 
- <a href="https://etherscan.io/address/0x49f872682850Cd1b41C23FCe1174BEDbB2709b32" target="_blank" rel="noopener noreferrer"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-0D2038?style=for-the-badge&logo=ethereum&logoColor=white"></a>
+ <a href="https://etherscan.io/address/..." target="_blank" rel="noopener noreferrer"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-0D2038?style=for-the-badge&logo=ethereum&logoColor=white"></a> -->
  
  
 <!-- ## My Latest Projects 📁
