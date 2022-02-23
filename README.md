@@ -1,6 +1,6 @@
 ## Hey there 🙌
 
-I'm a **full-Stack Developer**📟 interested in **blockchain technologies**⛓. I'm passionate about making **open-source** more accessible, creating software:computer:, tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm a **full-Stack Developer**💻 interested in **blockchain technologies**⛓. I'm passionate about making **open-source** more accessible, creating **web-apps**, **tools** to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
 <em>✨<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to stay in contact</b>✨</em>
 
