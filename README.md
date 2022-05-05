@@ -1,4 +1,4 @@
-## Hey there 🙌
+## About 🐱‍👤
 
 I'm a **full-Stack Developer**💻 interested in **blockchain technologies**⛓. I'm passionate about web 3.0, making **open-source** more accessible, creating **apps**, **tools** to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
