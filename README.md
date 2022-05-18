@@ -32,9 +32,7 @@ I'm a **full-Stack developer**💻 interested in **blockchain technologies**⛓.
 
 ## Github Stats ⚡
 
-<!-- <a href="https://github.com/chrisstef">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisstef&amp;show_icons=true&amp;theme=radical" height="160"  witdh="480" />
-</a> -->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <a href="https://github.com/chrisstef">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chrisstef&theme=radical" height="160" witdh="480" />
 </a>
