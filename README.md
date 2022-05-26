@@ -41,7 +41,7 @@ I'm a **full-Stack developer**💻 interested in **blockchain technologies**⛓.
 <br>
 
 
-### GitHub Contributions 🧱
+## Contributions 🧱
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&user=chrisstef&theme=radical)
 
 <br>
