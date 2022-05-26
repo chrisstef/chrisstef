@@ -19,6 +19,8 @@ I'm a **full-Stack developer**💻 interested in **blockchain technologies**⛓.
   </a>
   </h2>
   
+  <br>
+  
 
 ## Languages 💻
 
@@ -29,11 +31,17 @@ I'm a **full-Stack developer**💻 interested in **blockchain technologies**⛓.
 ![Python](https://img.shields.io/badge/Python-0040ff?style=flat-square&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-0040ff?style=flat-square&logo=solidity&logoColor=white)
 
+<br>
+
 
 ## Github Stats ⭐
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=chrisstef&theme=radical)](https://github.com/chrisstef/github-readme-stats)
 
+<br>
+
 
 ### GitHub Contributions 🧱
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&user=chrisstef&theme=radical)
+
+<br>
