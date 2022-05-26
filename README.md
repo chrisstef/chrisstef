@@ -19,8 +19,6 @@ I'm a **full-Stack developer**💻 interested in **blockchain technologies**⛓.
   </a>
   </h2>
   
-  <br>
-  
 
 ## Languages 💻
 
