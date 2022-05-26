@@ -32,11 +32,11 @@ I'm a **full-Stack developer**💻 interested in **blockchain technologies**⛓.
 
 ## Github Stats
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=chrisstef)](https://github.com/chrisstef/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=chrisstef&theme=radical)](https://github.com/chrisstef/github-readme-stats)
 
 
 ### GitHub Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&user=chrisstef)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&user=chrisstef&theme=radical)
 
 <br/>
 
