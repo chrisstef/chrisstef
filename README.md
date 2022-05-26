@@ -30,30 +30,10 @@ I'm a **full-Stack developer**💻 interested in **blockchain technologies**⛓.
 ![Solidity](https://img.shields.io/badge/Solidity-0040ff?style=flat-square&logo=solidity&logoColor=white)
 
 
-## Github Stats
+## Github Stats ⭐
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=chrisstef&theme=radical)](https://github.com/chrisstef/github-readme-stats)
 
 
-### GitHub Contributions
+### GitHub Contributions 🧱
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&user=chrisstef&theme=radical)
-
-<br/>
-
-
-<!-- <h2>Account Views</h2>
-<img src="https://profile-counter.glitch.me/chrisstef/count.svg"/> -->
-
-<!-- ## Donate ☕
-
- <a href="https://etherscan.io/address/..." target="_blank" rel="noopener noreferrer"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-0D2038?style=for-the-badge&logo=ethereum&logoColor=white"></a> -->
- 
- 
-<!-- ## My Latest Projects 📁
-
-<a href="https://github.com/chrisstef/3CommasVerse">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=3CommasVerse&theme=radical" height="130"  witdh="330" />
-</a>
-<a href="https://github.com/chrisstef/Modern-Crypto-Punks">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisstef&repo=Modern-Crypto-Punks&theme=radical" height="130"  witdh=260" />
-</a> -->
