@@ -30,9 +30,13 @@ I'm a **full-Stack developer**💻 interested in **blockchain technologies**⛓.
 ![Solidity](https://img.shields.io/badge/Solidity-0040ff?style=flat-square&logo=solidity&logoColor=white)
 
 
-## Github Stats ⚡
+### GitHub Stats
+![chrisstef Github Stats](https://github-readme-stats.vercel.app/api?username=chrisstef&custom_title=SJ%27s%20GitHub%20Stats%20&show_icons=true&theme=dark&ring=FFB19A&hide_border=true&text_color=F6A085)
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chrisstef&theme=radical" height="160" witdh="480" />
+### GitHub Contributions
+![chrisstef GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&user=chrisstef)
+
+<br/>
 
 
 <!-- <h2>Account Views</h2>
