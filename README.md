@@ -23,9 +23,9 @@ I'm a **full-Stack developer**💻 interested in **blockchain technologies**⛓.
 
 ## Languages 💻
 
-![Javascript](https://img.shields.io/badge/Javascript-ff00bf?style=flat-square&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-ff00bf?style=plastic-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-bf00ff?style=flat-square&logo=React&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-4000ff?style=flat-square&logo=HTML5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-4000ff?style=social-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-0000ff?style=flat-square&logo=CSS3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0040ff?style=flat-square&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-0040ff?style=flat-square&logo=solidity&logoColor=white)
