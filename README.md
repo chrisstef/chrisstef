@@ -32,7 +32,8 @@ I'm a **full-Stack developer**💻 interested in **blockchain technologies**⛓.
 
 <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;&nbsp;<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />&nbsp;<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-![Chrisstef's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisstef&theme=radical&layout=compact)
+<!-- 
+![Chrisstef's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisstef&theme=radical&layout=compact) -->
 
 ## Stats 💪
 
