@@ -30,6 +30,8 @@ I'm a **full-Stack developer**💻 interested in **blockchain technologies**⛓.
 ![Python](https://img.shields.io/badge/Python-0040ff?style=plastic-square&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-0040ff?style=plastic-square&logo=solidity&logoColor=white)
 
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
 ## Stats 💪
 
