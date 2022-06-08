@@ -23,12 +23,12 @@ I'm a **full-Stack developer**💻 interested in **blockchain technologies**⛓.
 
 ## Languages 💻
 
-![Javascript](https://img.shields.io/badge/Javascript-ff00bf?style=plastic-square&logo=javascript&logoColor=white)
+<!-- ![Javascript](https://img.shields.io/badge/Javascript-ff00bf?style=plastic-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-bf00ff?style=plastic-square&logo=React&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-4000ff?style=plastic-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-0000ff?style=plastic-square&logo=CSS3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0040ff?style=plastic-square&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-0040ff?style=plastic-square&logo=solidity&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-0040ff?style=plastic-square&logo=solidity&logoColor=white) -->
 
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
