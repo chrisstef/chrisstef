@@ -36,7 +36,7 @@ I'm a **full-Stack developer**💻 interested in **blockchain technologies**⛓.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/solidity/solidity-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_solidity/w3_solidity-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 
