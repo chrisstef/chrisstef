@@ -41,3 +41,10 @@ I'm a **full-Stack developer** interested in **blockchain technologies**⛓. Pas
 ## Stats 💪
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=chrisstef&theme=radical)](https://github.com/chrisstef/github-readme-stats)
+
+<p align="center">
+  <a href="https://github.com/AdityaKumar28">
+    <img src="[https://github-readme-stats.vercel.app/api?username=gottaegbert&show_icons=true&theme=github_dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?&theme=dark&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&user=chrisstef&theme=radical)" />
+    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=gottaegbert&theme=github-dark-blue&hide_border=true](https://github-readme-stats.vercel.app/api?username=chrisstef&theme=radical)](https://github.com/chrisstef/github-readme-stats)" />
+  </a>
+</p>
