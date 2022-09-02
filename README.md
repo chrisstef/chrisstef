@@ -41,5 +41,3 @@ I'm a **full-Stack developer** interested in **blockchain technologies**⛓. Pas
 ## Stats 💪
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=chrisstef&theme=radical)](https://github.com/chrisstef/github-readme-stats)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=chrisstef&theme=radical" />
