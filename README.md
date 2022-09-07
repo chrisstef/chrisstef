@@ -21,7 +21,7 @@ Hey there! I'm a **software developer** interested in **blockchain technologies*
   </h2>
   
 
-## Tech Stack 💻
+## Languages 💻
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=plastic-square&logo=python&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
