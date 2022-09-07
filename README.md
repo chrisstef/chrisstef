@@ -21,7 +21,7 @@ Hey there! I'm a **software developer** interested in **blockchain technologies*
   </h2>
   
 
-## Languages 💻
+## Tech Stack 💻
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=plastic-square&logo=python&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -36,6 +36,6 @@ Hey there! I'm a **software developer** interested in **blockchain technologies*
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dark&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&user=chrisstef&theme=radical)
 
 
-## Stats 💪
+## Stats 📊
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=chrisstef&theme=radical)](https://github.com/chrisstef/github-readme-stats)
