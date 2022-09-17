@@ -35,7 +35,7 @@ Hey there! I'm a **software developer** interested in **blockchain technologies*
 
 Stats             |  Contributions
 :-------------------------:|:-------------------------:
-[![](https://github-readme-stats.vercel.app/api?username=chrisstef&theme=radical)](https://github.com/chrisstef/github-readme-stats)  |  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisstef&theme=radical)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api?username=chrisstef&theme=synthwave-84)](https://github.com/chrisstef/github-readme-stats)  |  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisstef&theme=synthwave-84)](https://git.io/streak-stats)
 
 ![](https://activity-graph.herokuapp.com/graph?username=chrisstef&theme=synthwave-84)
 
