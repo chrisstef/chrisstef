@@ -31,20 +31,10 @@ Hey there! I'm a **software developer** interested in **blockchain technologies*
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic-square&logo=css3)
 
 
-## Commits 🧱
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dark&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&user=chrisstef&theme=radical)
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=chrisstef&theme=radical)](https://github.com/chrisstef/github-readme-stats)
-
-
-
-
-## Stats & Contributions 📊
+## Stats & Contributions 🧱
 
 Commits             |  Stats
 :-------------------------:|:-------------------------:
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dark&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&user=chrisstef&theme=radical)  |  [![My github stats](https://github-readme-stats.vercel.app/api?username=chrisstef&theme=radical)](https://github.com/chrisstef/github-readme-stats)
 
 ![](https://activity-graph.herokuapp.com/graph?username=chrisstef&theme=redical)
-
