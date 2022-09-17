@@ -38,4 +38,3 @@ Stats             |  Contributions
 [![](https://github-readme-stats.vercel.app/api?username=chrisstef&theme=radical)](https://github.com/chrisstef/github-readme-stats)  |  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisstef&theme=radical)](https://git.io/streak-stats)
 
 ![](https://activity-graph.herokuapp.com/graph?username=chrisstef&theme=radical)
-
