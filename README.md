@@ -30,6 +30,8 @@ Hey there! I'm a **software developer** interested in **blockchain technologies*
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic-square&logo=css3)
 
+![](https://activity-graph.herokuapp.com/graph?username=chrisstef&theme=redical)
+
 
 ## Commits 🧱
 
