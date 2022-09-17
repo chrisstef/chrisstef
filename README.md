@@ -32,6 +32,8 @@ Hey there! I'm a **software developer** interested in **blockchain technologies*
 
 ![](https://activity-graph.herokuapp.com/graph?username=chrisstef&theme=redical)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisstef&layout=compact&theme=tokyonight&langs_count=10&hide=lua)
+
 
 ## Commits 🧱
 
