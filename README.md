@@ -24,11 +24,12 @@ Hey there! I'm a **software developer** interested in **blockchain technologies*
 ## Languages 💻
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=plastic-square&logo=python&logoColor=ffffff)
-![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=plastic-square&logo=react&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React.js](https://img.shields.io/badge/-React-61DAFB?style=plastic-square&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next.js-fff?style=plastic-square&logo=next.js&logoColor=ffffff)
 ![Solidity](http://img.shields.io/badge/-Solidity-5B4638?style=plastic-square&logo=solidity&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic-square&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic-square&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic-square&logo=css3)
 
 
 ## Stats & Contributions 🧱
