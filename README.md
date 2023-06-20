@@ -24,7 +24,7 @@ Hey there! I'm a **software developer** interested in **blockchain technologies*
 ## Languages 💻
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=plastic-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic-square&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React-61DAFB?style=plastic-square&logo=react&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/-Next.js-fff?style=plastic-square&logo=next.js&logoColor=ffffff)
