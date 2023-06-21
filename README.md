@@ -35,7 +35,8 @@ Hey there! I'm a **software developer** interested in **blockchain technologies*
 
 ## Stats & Contributions 🧱
 
-| Stats | Contributions |
-|:-------------------------:|:-------------------------:|
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisstef&theme=radical)](https://github.com/chrisstef/github-readme-stats) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisstef&theme=radical)](https://git.io/streak-stats) |
-| [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrisstef&bg_color=141321&color=d83b7d&line=f8d847&point=a9fef7&area=true&hide_border=false)](https://github.com/chrisstef) |  |
+Stats             |  Contributions
+:-------------------------:|:-------------------------:
+[![](https://github-readme-stats.vercel.app/api?username=chrisstef&theme=radical)](https://github.com/chrisstef/github-readme-stats)  |  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisstef&theme=radical)](https://git.io/streak-stats)
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chrisstef&bg_color=141321&color=d83b7d&line=f8d847&point=a9fef7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
