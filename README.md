@@ -5,21 +5,6 @@ Hey there! I'm a **software developer** interested in **blockchain technologies*
 
 <em>✨<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to stay in contact</b>✨</em>
 
-<h2 align="center">
-<!--   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/christos-stefanis/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
-  </a> -->
-  &nbsp;&nbsp;
-  <a href="https://t.me/kaieverdream">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="30">
-  </a>
-<!--   &nbsp;&nbsp;
-  <a href="https://gitcoin.co/chrisstef">
-    <img src="https://c.gitcoin.co/avatars/3796775e0f4505332d58e331488d56e9/gitcoinco.png" alt="GitCoin" height="30" width="30">
-  </a> -->
- </h2>
-  
 
 ## Languages 💻
 
