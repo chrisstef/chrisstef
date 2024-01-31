@@ -1,7 +1,6 @@
 ## About
 
-Greetings! I'm a software enthusiast with a keen interest in blockchain technologies⛓. Enthusiastic about Web3, striving to enhance accessibility to open source, crafting engaging UIs, developing tools to empower individuals, and fostering a sense of community. Let's embark on this exciting journey together!
-
+Welcome to my small corner of the internet. I'm a software developer with a keen interest in blockchain technologies⛓. Enthusiastic about Web3, striving to enhance accessibility to open source, crafting engaging UIs and developing tools to empower individuals. Let's embark on this journey together!
 
 ## Languages 💻
 
