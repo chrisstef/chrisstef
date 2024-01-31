@@ -1,6 +1,6 @@
 ## About
 
-Hey there! I'm a **software developer** interested in **blockchain technologies**⛓. Passionate about **Web3**, making **open-source** more accessible, creating interactive **UI's**, **tools** to help people, and **building a community**. Let's embark on this journey together!
+Greetings! I'm a software enthusiast with a keen interest in blockchain technologies⛓. Enthusiastic about Web3, striving to enhance accessibility to open source, crafting engaging UIs, developing tools to empower individuals, and fostering a sense of community. Let's embark on this exciting journey together!
 
 
 ## Languages 💻
