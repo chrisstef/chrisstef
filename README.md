@@ -11,7 +11,7 @@ Welcome to my small corner of the internet. I'm a software developer with a pass
 ![Next.js](https://img.shields.io/badge/-Next.js-fff?style=plastic-square&logo=next.js&logoColor=ffffff)
 ![Solidity](http://img.shields.io/badge/-Solidity-5B4638?style=plastic-square&logo=solidity&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic-square&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic-square&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic-square&logo=css3&logoColor=ffffff)
 
 
 ## Stats & Contributions 🧱
