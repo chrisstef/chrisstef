@@ -1,6 +1,6 @@
 ## About
 
-Welcome to my small corner of the internet. I'm a software developer with a passion for user interfaces and web3. What's up with you?
+Greetings! I'm a software developer with a passion for user interfaces and web3. What's up with you?
 
 ## Languages 💻
 
