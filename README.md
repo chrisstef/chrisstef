@@ -2,6 +2,11 @@
 
 Welcome to my little corner of the internet! I'm a Software Developer focused on crafting solutions for a decentralized future. Plus, I enjoy creating user interfaces that prioritize intuitiveness, ensuring a seamless and enjoyable user experience. What's up with you?
 
+![Github Stars](https://img.shields.io/github/stars/chrisstef?color=ffd45f&logo=github&style=badge)
+![Github Followers](https://img.shields.io/github/followers/chrisstef?color=ffd45f&logo=github&style=badge)
+
+***
+
 ### Languages:
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=plastic-square&logo=python&logoColor=ffffff)
@@ -13,6 +18,7 @@ Welcome to my little corner of the internet! I'm a Software Developer focused on
 ![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic-square&logo=css3&logoColor=ffffff)
 
+***
 
 ### Stats & Contributions:
 
