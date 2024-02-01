@@ -1,8 +1,8 @@
-## About
+## gm ☀️
 
-Greetings! I'm a software developer with a passion for user interfaces and web3. What's up with you?
+Welcome to my little corner of the internet! I'm a Software Developer focused on crafting solutions for a decentralized future. What's up with you?
 
-## Languages 💻
+## Languages:
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=plastic-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -14,7 +14,7 @@ Greetings! I'm a software developer with a passion for user interfaces and web3.
 ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic-square&logo=css3&logoColor=ffffff)
 
 
-## Stats & Contributions 🧱
+## Stats & Contributions:
 
 Stats             |  Contributions
 :-------------------------:|:-------------------------:
