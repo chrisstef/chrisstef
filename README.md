@@ -1,6 +1,6 @@
 ### gm ☀️
 
-Welcome to my little corner of the internet! I'm a Software Developer focused on crafting solutions for a decentralized future. Plus, I enjoy creating user interfaces that prioritize intuitiveness, ensuring a seamless and enjoyable user experience. What's up with you?
+Welcome to my little corner of the internet! I'm a Software Developer focused on crafting solutions for a decentralized future. Plus, I enjoy creating user interfaces that prioritize intuitiveness, ensuring a seamless user experience. What's up with you?
 
 ![Github Stars](https://img.shields.io/github/stars/chrisstef?color=ffd45f&logo=github&style=badge)
 ![Github Followers](https://img.shields.io/github/followers/chrisstef?color=ffd45f&logo=github&style=badge)
