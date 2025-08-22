@@ -18,9 +18,9 @@ Welcome to my little corner of the internet! I am a Software Developer focused o
 ![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic-square&logo=css3&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=plastic-square&logo=python&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-1D63ED?style=plastic-square&logo=docker&logoColor=ffffff)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=plastic-square&logo=postgresql&logoColor=white)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic-square&logo=flutter&logoColor=fff)](#)
+![Docker](https://img.shields.io/badge/-Docker-1D63ED?style=plastic-square&logo=docker&logoColor=ffffff)
 ![Solidity](http://img.shields.io/badge/-Solidity-5B4638?style=plastic-square&logo=solidity&logoColor=ffffff)
 
 ***
