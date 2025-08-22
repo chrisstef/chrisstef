@@ -13,7 +13,7 @@ Welcome to my little corner of the internet! I am a Software Developer focused o
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic-square&logo=react&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/-Next.js-fff?style=plastic-square&logo=next.js&logoColor=ffffff)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08Dstyle=plastic-square&logo=vuedotjs&logoColor=fff)](#)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=plastic-square&logo=vuedotjs&logoColor=fff)](#)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3B00?style=plastic-square&logo=svelte&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=plastic-square&logo=css3&logoColor=ffffff)
